@@ -12,8 +12,10 @@ Technologies Used:
 What the Model Does:
 ------------------ 
 This algorithm takes two inputs:
+
     1. Image B
-    2. Pixel size threshold
+
+    3. Pixel size threshold
     
 From these values it generates:
 
@@ -30,4 +32,4 @@ From these values it generates:
 
 The image input is taken as a gray level .img file then it is thresholded resulting in the binary image below:
 
-[!](https://i.ibb.co/TPmz6tj/og.png)
+![](https://i.ibb.co/TPmz6tj/og.png)
