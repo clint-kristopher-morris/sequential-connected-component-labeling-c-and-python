@@ -51,10 +51,13 @@ Second moments allow you to understand object aspects such as elongation, eccent
 ![](https://i.ibb.co/5nZgxWt/tan.png)
 
 
-Then features like compactness, perimeter and bound boxes can be generated. This deploys a "Moore neighborhood" implementation that sums the lengths of 4 and 8 neighbors around an object in a count-clockwise manner. See the image below for how the primeterfuction works and how BBox labeling is conducted.
+Then features like compactness, perimeter and bound boxes can be generated. This deploys a "Moore neighborhood" implementation that sums the lengths of 4 and 8 neighbors around an object in a count-clockwise manner. See the image below for how the primeterfuction works.
 
 
 ![](https://media.giphy.com/media/ycw7wV4S2Lwna3yOUd/giphy.gif)
+
+
+Below is an example how BBox labeling is conducted.
 
 
 ![](https://media.giphy.com/media/oyzMey5mSM7Q49RhDw/giphy.gif)
