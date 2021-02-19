@@ -16,12 +16,18 @@ This algorithm takes two inputs:
     2. Pixel size threshold
     
 From these values it generates:
+
     1. all component's size
-    2. location of each component's centroid
-    3. the bounding box of each object
-    4. the orientation of the axis of elongation
-    5. the eccentricity, perimeter and compactness 
+    
+    3. location of each component's centroid
+    
+    4. the bounding box of each object
+   
+    5. the orientation of the axis of elongation
+    
+    6. the eccentricity, perimeter and compactness 
 
 
 The image input is taken as a gray level .img file then it is thresholded resulting in the binary image below:
+
 [!](https://i.ibb.co/TPmz6tj/og.png)
